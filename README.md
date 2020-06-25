@@ -1,10 +1,7 @@
 # SOEN499Project
-Amal Javed 40029882
 
 Nizar Belhassan 27519443
 
-Ahmad Baiazid 27393016
- 
 ## Abstract
 There is a significant need for companies to analyze fast-growing data to answer certain demand and interests. This includes estimating situations, creating new business strategies, and decision making. In this project, we are going to analyze open data from BIXI using Scikit-learn. In the following paragraphs we discuss and interpret the results from three techniques learned in this course, mainly, Decision Trees, Random Forest, and K-means clustering.
 
